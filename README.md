@@ -80,7 +80,7 @@ I enjoy working with real-world datasets to uncover trends, build dashboards, an
 ## 🌐 Connect with Me
 
 - GitHub: https://github.com/HarishCodez  
-- LinkedIn: (Add your LinkedIn link here)
+- LinkedIn: https://www.linkedin.com/in/harish-r07/
 
 ---
 
