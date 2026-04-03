@@ -1,111 +1,93 @@
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
 <h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Harish R</strong>
+  Hi, I'm <strong>Harish R</strong> 👋
 </h1>
 
 <h3>📊 Aspiring Data Analyst | SQL • Python • Power BI • Excel</h3>
 
-<div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+---
 
-  <p>
-    I'm a passionate Data Analyst who enjoys transforming raw data into meaningful insights.  
-    I specialize in data cleaning, visualization, and building dashboards that help businesses make better decisions.
-  </p>
+## 💡 About Me
 
-  <p>
-    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🤝_Open_to_Work_(Data_Analytics)-1e1e2e?style=for-the-badge" />
-  </p>
+I am a passionate and detail-oriented aspiring Data Analyst with hands-on experience in data visualization, SQL analysis, and business insights.
 
-<h3>🌐 Connect with Me</h3>
-  
-<p align="left">
-  <a href="https://github.com/HarishCodez">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/harish-r07/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
-</p>
-
-  <img src="https://komarev.com/ghpvc/?username=HarishCodez&style=flat-square&color=blue" alt="Profile Visit"/>
-</div>
-
-<br clear="all" />
+I enjoy working with real-world datasets to uncover trends, build dashboards, and support data-driven decision-making.
 
 ---
 
 ## 🛠️ Skills
 
-<p align="center">
-<table>
-<tr>
-<td width="50%" align="center">
+### 📊 Data Analysis
+- SQL  
+- Excel  
+- Power BI  
+- Python (Pandas, NumPy)  
 
-<h3>📊 Data Analysis</h3>
+### 📈 Data Visualization
+- Power BI Dashboards  
+- Excel Dashboards  
+- Matplotlib, Seaborn  
 
-<img src="https://skillicons.dev/icons?i=python" />
-<br/>
-SQL • Excel • Power BI • Pandas • NumPy
+### 🗄️ Databases
+- MySQL  
 
-</td>
-
-<td width="50%" align="center">
-
-<h3>📈 Visualization</h3>
-
-Power BI • Matplotlib • Seaborn • Excel Dashboards
-
-</td>
-
-</tr>
-
-<tr>
-<td width="50%" align="center">
-
-<h3>🗄️ Databases</h3>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-
-</td>
-
-<td width="50%" align="center">
-
-<h3>🧰 Tools</h3>
-
-Git • VS Code • Jupyter Notebook • Google Sheets
-
-</td>
-</tr>
-</table>
-</p>
+### 🧰 Tools
+- VS Code  
+- Jupyter Notebook  
+- Git & GitHub  
 
 ---
 
 ## 📊 Projects
 
-🔹 Sales Data Analysis Dashboard (Power BI)  
-🔹 Customer Segmentation using Python  
-🔹 SQL Data Exploration Project  
-🔹 Excel Dashboard for Business Insights  
+### 🍽️ Zomato Data Analysis Dashboard
+- Analyzed restaurant ratings, customer behavior, and order trends  
+- Built interactive dashboards using Power BI  
+- Identified key factors affecting business growth  
+
+---
+
+### 🛒 Retail Sales Analysis Dashboard
+- Analyzed sales performance and revenue trends  
+- Identified top-selling products and regional insights  
+- Studied impact of discounts on profit  
+
+---
+
+### 🎬 Netflix Data Analysis Dashboard
+- Analyzed content trends, genres, and user preferences  
+- Identified popular content categories  
+- Built interactive Power BI dashboard  
+
+---
+
+### 🗄️ SQL Retail Data Analysis
+- Performed data analysis using SQL queries  
+- Used JOIN, GROUP BY, and aggregations  
+- Extracted insights like top products, revenue trends, and customer analysis  
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=HarishCodez&theme=dark&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=HarishCodez&theme=dark&hide_border=true" />
 </div>
+
+---
+
+## 🌐 Connect with Me
+
+- GitHub: https://github.com/HarishCodez  
+- LinkedIn: (Add your LinkedIn link here)
 
 ---
 
 ## 🎯 Career Goal
 
-To become a skilled Data Analyst and help organizations make data-driven decisions by uncovering actionable insights.
+To start my career as a Data Analyst and contribute to organizations by transforming data into meaningful insights that drive business decisions.
 
 ---
+
+## ⭐ If you like my work, consider giving a star!
